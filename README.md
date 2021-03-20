@@ -1,7 +1,7 @@
 # FingerPrintVotingSystem
 SQL Database of a FingerPrint voting Application.
 
-###System Description :
+## System Description :
 
 First of all, each person is an eligible voter but isn’t registered yet to vote. To do so, each eligible voter must register with the admin in order to be able to become a voter a vote in the election.
 Every Voter has an ID with the inclusion of his first and last name, his gender and his age.
