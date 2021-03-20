@@ -12,3 +12,7 @@ Those candidates can stand with a certain political party which has a name, lead
 The Election is represented by an ID and has a date, result date, details and type of election.
 The voter can participate in a variety of election, and the election can be participated by multiple voters.
 
+## Entity Relationship Diagram:
+
+![ERD](https://user-images.githubusercontent.com/68122919/111884434-4d681d00-89ca-11eb-9286-a078a4744d12.png)
+
